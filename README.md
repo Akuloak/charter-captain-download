@@ -15,6 +15,7 @@ Boots-Charter-Simulator für bis zu 4 Spieler. Hier gibt es nur die fertige Wind
 - Personal (Verkäufer, Matrose), Boote anmalen und benennen, Filiale auf Isola Verde
 - Sturmwarnung aufs Handy, Möwen, Schiffshorn und Strandbar-Musik
 - Ladebildschirm mit Spielbildern, Geländer an der Kaimauer, Karte zoomen (Mausrad), Springen (Leertaste)
+- Handy-App: Anfragen mit Wunschzeit, Termine, Wetter, Aufträge, Bewertungen; Tag 6–21 Uhr
 
 ## Im Browser spielen
 
