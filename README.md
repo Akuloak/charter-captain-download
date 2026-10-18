@@ -12,6 +12,7 @@ Boots-Charter-Simulator für bis zu 4 Spieler. Hier gibt es nur die fertige Wind
 - Neuer Laden und Tankstelle, Delfine und Schildkröten (Foto-Bonus), Nachtlichter mit Leuchtturm
 - Wieder beitreten nach Verbindungsabbruch, "Crew des Tages" beim Feierabend, Spielstand beim Host
 - Besondere Gäste (Promi, Hochzeit, Angler), Badestopp, Tagesziele mit Bonus
+- Personal (Verkäufer, Matrose), Boote anmalen und benennen, Filiale auf Isola Verde
 
 ## Im Browser spielen
 
