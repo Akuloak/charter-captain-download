@@ -7,6 +7,7 @@ Boots-Charter-Simulator für bis zu 4 Spieler. Hier gibt es nur die fertige Wind
 - Charter-Büro am Steg (Holzbude → Büro → Charter-Zentrale): Kunden warten dort, Buchungen, Werft und Ausbau
 - 3 ferne Inseln (Isola Verde, Leuchtturm-Insel, Delfin-Riff) – erreichbar mit größerem Tank oder besserem Boot
 - Handy mit Kunden-Meldungen (Taste H), Wunsch-Leiste unten, fairere Zufriedenheit
+- Flyer bringen zufällig 0–3 Kunden; die Minikarte zeigt den Weg zum nächsten Ziel
 
 ## Im Browser spielen
 
