@@ -2,6 +2,12 @@
 
 Boots-Charter-Simulator für bis zu 4 Spieler. Hier gibt es nur die fertige Windows-Version zum Testen (kein Quellcode).
 
+## Neu in dieser Version
+
+- Charter-Büro am Steg (Holzbude → Büro → Charter-Zentrale): Kunden warten dort, Buchungen, Werft und Ausbau
+- 3 ferne Inseln (Isola Verde, Leuchtturm-Insel, Delfin-Riff) – erreichbar mit größerem Tank oder besserem Boot
+- Handy mit Kunden-Meldungen (Taste H), Wunsch-Leiste unten, fairere Zufriedenheit
+
 ## Im Browser spielen
 
 Die Browser-Version läuft auf Render – Link öffnen, kurz laden lassen (beim ersten Mal 1–2 Minuten), spielen.
