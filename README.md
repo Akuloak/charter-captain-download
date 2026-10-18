@@ -10,6 +10,7 @@ Boots-Charter-Simulator für bis zu 4 Spieler. Hier gibt es nur die fertige Wind
 - Flyer bringen zufällig 0–3 Kunden; die Minikarte zeigt den Weg zum nächsten Ziel
 - Einladungslink, Chat (T) mit Sprechblasen, Crew kann das Steuer übernehmen, Knopf-Leiste unten, große Karte (M)
 - Neuer Laden und Tankstelle, Delfine und Schildkröten (Foto-Bonus), Nachtlichter mit Leuchtturm
+- Wieder beitreten nach Verbindungsabbruch, "Crew des Tages" beim Feierabend, Spielstand beim Host
 
 ## Im Browser spielen
 
