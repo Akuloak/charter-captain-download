@@ -1,0 +1,15 @@
+{
+  "name": "charter-captain-relay",
+  "version": "1.0.0",
+  "description": "Vermittlungs-Server für den Mehrspieler-Modus von Charter Captain",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

@@ -1,0 +1,14 @@
+# Render-Blueprint: ein Dienst, der die Browser-Version ausliefert
+# und gleichzeitig der Vermittlungs-Server (Raum-Codes) ist.
+services:
+  - type: web
+    name: charter-captain
+    runtime: node
+    plan: free
+    region: frankfurt
+    buildCommand: >-
+      npm install &&
+      rm -rf public && mkdir public &&
+      curl -fsSL https://github.com/Akuloak/charter-captain-download/releases/latest/download/CharterCaptain_Web.tar.gz | tar -xz -C public
+    startCommand: node server.js
+    healthCheckPath: /status
